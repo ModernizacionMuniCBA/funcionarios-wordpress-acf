@@ -1,0 +1,12 @@
+#acf-field-input-funcionarios-cba-arg {
+	width: calc(100% - 60px);
+}
+
+#acf-funcionario button {
+	width: 59px;
+}
+
+.acf-field-resultados,
+.acf-field-sin-resultados {
+	display: none;
+}
